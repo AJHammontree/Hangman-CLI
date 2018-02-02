@@ -1,0 +1,22 @@
+{
+  "name": "hangman-cli",
+  "version": "1.0.0",
+  "description": "node based hangman game",
+  "main": "hangman.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AJHammontree/Hangman-CLI.git"
+  },
+  "author": "Austin Hammontree",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AJHammontree/Hangman-CLI/issues"
+  },
+  "homepage": "https://github.com/AJHammontree/Hangman-CLI#readme",
+  "dependencies": {
+    "inquirer": "^5.0.1"
+  }
+}
